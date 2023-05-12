@@ -110,8 +110,9 @@ body {
     font-size: 1.4rem;
 }
 
-.button:hover {
+.button:hover, .button:focus {
     background-color: var(--clr-primary-hover);
+    outline: 0;
 }
 
 
