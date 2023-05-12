@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ricochet69/PRODUCT-PREVIEW-CARD-COMPONENT](https://github.com/ricochet69/PRODUCT-PREVIEW-CARD-COMPONENT)
+- Live Site URL: [https://ricochet69.github.io/PRODUCT-PREVIEW-CARD-COMPONENT](https://ricochet69.github.io/PRODUCT-PREVIEW-CARD-COMPONENT)
 
 ## My process
 
